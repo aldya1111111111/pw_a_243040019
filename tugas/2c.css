@@ -1,0 +1,16 @@
+.container {
+    text-align: left;
+}
+.box {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: tomato;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    border: 2px solid black;
+    margin: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
